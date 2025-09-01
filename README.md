@@ -158,7 +158,7 @@ exit
 sudo -i
 ````
 ````
-yum install java -y
+yum install openjdk-11-jdk -y
 ````
 ````
 mkdir /opt/tomcat
