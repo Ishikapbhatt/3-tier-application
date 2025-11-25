@@ -1,6 +1,8 @@
 
 # $${\color{red} \textbf{Project}: \textbf{3-tier} \ \textbf{Student} \ \textbf{App}}$$
-  
+
+<img width="589" height="310" alt="image" src="https://github.com/user-attachments/assets/3e66fed5-beb1-4350-ae74-f1efeaab0cf6" />
+
 ## $\color{green} \textbf{Prerequisite:}$
 - VPC 
 - Subnets
